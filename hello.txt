@@ -6,3 +6,4 @@ hello git
 change txt first
 change txt on github
 pull on ssh
+push on ssh
